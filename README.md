@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TBG-123
+- 👀 I’m interested in scratch coding
+- 🌱 I’m currently learning javascript
+- 📫 email:alnawajidiyaa@gmail.com
